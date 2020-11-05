@@ -1,4 +1,4 @@
-thor: FSystem88
+
 import os
 def MAIN():
 	try:
